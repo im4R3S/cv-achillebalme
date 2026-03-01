@@ -71,7 +71,6 @@ h2{
 }
 
 .portait{
-  border-radius: 50%;
   max-width: 225px;
   margin: auto;
   display: block;
@@ -121,3 +120,4 @@ h2{
 .experience-list{
   list-style-type: circle;
 }
+
